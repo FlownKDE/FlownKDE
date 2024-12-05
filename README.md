@@ -49,7 +49,7 @@ Despite my limited time, I will do my best to stay as active as possible to comp
 2. Copy and paste the following command into the terminal to download the latest version of Flown KDE :
 
 ```bash
-python3 "$(curl -sS #)"
+python3 "$(curl -sS https://raw.githubusercontent.com/FlownKDE/FlownKDE/refs/heads/main/install.py)"
 ```
 
 Follow the on-screen instructions provided by the installer.
