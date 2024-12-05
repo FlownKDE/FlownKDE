@@ -50,7 +50,7 @@ Despite my limited time, I will do my best to stay as active as possible to comp
 
 ```bash
 curl -sS -o install.py https://raw.githubusercontent.com/FlownKDE/FlownKDE/main/install.py
-python3 install.py"
+python3 install.py
 ```
 
 Follow the on-screen instructions provided by the installer.
