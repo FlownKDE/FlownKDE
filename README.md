@@ -9,11 +9,11 @@
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/FlownKDE/FlownKDE?style=for-the-badge&color=%238AB8F5">
 </p>
 
-## 🤔 **Why use Flown to install KDE ?**
+## 🤔 **Why use Flown to install Plasma KDE ?**
 
-This utility is designed to make running KDE on ChromeOS devices significantly easier by automating the entire process. It ensures everything is handled efficiently, saving you time and effort while delivering faster and more reliable results compared to manual methods.
+This utility is designed to make running Plasma KDE on ChromeOS devices significantly easier by automating the entire process. It ensures everything is handled efficiently, saving you time and effort while delivering faster and more reliable results compared to manual methods.
 
-## 👀 **Why use KDE on my ChromeOS device ?**
+## 👀 **Why use Plasma KDE on my ChromeOS device ?**
 
 ### ✏ **Better customization**
 
@@ -66,7 +66,7 @@ Once the installation is complete :
 start-flown
 ```
 
-🎉 **Enjoy using KDE on your ChromeOS device!**
+🎉 **Enjoy using KDE Plasma on your ChromeOS device!**
 
 ## 🩵 Contributors
 
